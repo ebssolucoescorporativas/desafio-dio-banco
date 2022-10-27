@@ -1,0 +1,8 @@
+
+public class ContaPoupanca {
+
+	public int agencia;
+	public int conta;
+	public double saldo;
+	
+}
